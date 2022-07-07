@@ -22,7 +22,7 @@ export const ComentariosReducer = (state = initialState, action) => {
             }
 
         case typesAgendar.list:
-            return {
+            return {    
                 agendaCitas: [...action.payload]
             }
 

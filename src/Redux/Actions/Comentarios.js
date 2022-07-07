@@ -98,15 +98,6 @@ export const listAgendarSync = (agenda) => {
 
 
 
-
-
-
-
-
-
-
-
-
 /* agregar cita agendar asyncrono */
 export const actionAddAgendaAsync = (formValue) => {
     return (dispatch) => {

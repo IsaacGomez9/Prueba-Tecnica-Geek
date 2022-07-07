@@ -12,6 +12,7 @@ const NotasUsuario = ({datos}) => {
   const dispatch = useDispatch();
 
   const { agendaCitas } = useSelector((store) => store.ComentariosReducer);
+  console.log(agendaCitas); 
 
   const [formValue, handleInputChange, reset] = useForm({
     sintomas: "",

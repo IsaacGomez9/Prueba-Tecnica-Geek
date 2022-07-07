@@ -27,7 +27,7 @@ const Register = () => {
     <>
       <div
         style={{
-          backgroundImage: `url('https://images6.alphacoders.com/909/909641.png')`,
+          backgroundImage: `url('https://images.pexels.com/photos/531756/pexels-photo-531756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')`,
           backgroundSize: '100%'
         }}
       >
